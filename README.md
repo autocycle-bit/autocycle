@@ -1,2 +1,7 @@
-# autocycle
-TokenTracker is a single-page web application that simulates a real-time hospital patient-flow and token management system. Built entirely in HTML, CSS, and vanilla JavaScript, it demonstrates how a hospital could coordinate patients across multiple stages of care — from reception to consultation, diagnostics, and specialist review.
+# AutoCycle Market
+
+AutoCycle Market is a digital marketplace for buying and selling automobile spare parts and discovering trusted garages and mechanics.
+
+The platform supports vehicle-based product search, filters, product listings, seller registration, seller dashboards, service discovery, and admin seller verification.
+
+Built using HTML, CSS, and JavaScript.
